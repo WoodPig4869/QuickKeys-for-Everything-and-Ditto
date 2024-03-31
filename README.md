@@ -8,13 +8,13 @@ QuickKeys for Everything and Ditto is a project aimed at replacing Windows hotke
 ## Installation
 1. Download `QuickKeys-for-Everything-and-Ditto.zip`
 2. Open the project in your preferred code editor.
-3. Customize hotkeys in the configuration file (`config.ini`).
+3. Customize Everything and Ditto file paths in the configuration file (`config.ini`).
 
 ## Usage
 1. Run the `HotKeySetting.exe` or `HotKeySetting(invis-icon).exe`.
 2. Use `Win+S` and `Win+V` to invoke them.
 
-# QuickKeys for Everything 和 Ditto
+# 快捷 Everything , Ditto
 QuickKeys for Everything 和 Ditto 是一個專案，旨在為「Everything」和「Ditto」應用程式設置熱鍵，取代Windows 原生的快捷鍵，以提高工作效率。
 
 ## 功能
@@ -23,7 +23,7 @@ QuickKeys for Everything 和 Ditto 是一個專案，旨在為「Everything」�
 ## 安裝
 下載 QuickKeys-for-Everything-and-Ditto.zip
 1. 在你慣用的代碼編輯器中打開專案。
-2. 在配置文件 (config.ini) 中自定義熱鍵。
+2. 在配置文件 (config.ini) 中自定義 Everythig 和 Ditto 的檔案位置。
 ## 使用方法
 - 運行 HotKeySetting.exe 或 HotKeySetting(invis-icon).exe。
 - 使用 Win+S 和 Win+V 來調用它們。
