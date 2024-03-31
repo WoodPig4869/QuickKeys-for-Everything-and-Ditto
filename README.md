@@ -6,7 +6,7 @@ QuickKeys for Everything and Ditto is a project aimed at replacing Windows hotke
 - Replace Windows hotkeys Win+S and Win+V
 
 ## Installation
-1. Download `QuickKeys-for-Everything-and-Ditto.zip`
+1. Download [QuickKeys-for-Everything-and-Ditto.zip](https://github.com/WoodPig4869/QuickKeys-for-Everything-and-Ditto/releases/latest)
 2. Open the project in your preferred code editor.
 3. Customize Everything and Ditto file paths in the configuration file (`config.ini`).
 
@@ -21,7 +21,7 @@ QuickKeys for Everything 和 Ditto 是一個專案，旨在為「Everything」�
 - 允許使用者快速存取「Everything」和「Ditto」應用程式。
 - 替換 Windows 熱鍵 Win+S 和 Win+V
 ## 安裝
-下載 QuickKeys-for-Everything-and-Ditto.zip
+下載 [QuickKeys-for-Everything-and-Ditto.zip](https://github.com/WoodPig4869/QuickKeys-for-Everything-and-Ditto/releases/latest)
 1. 在你慣用的代碼編輯器中打開專案。
 2. 在配置文件 (config.ini) 中自定義 Everythig 和 Ditto 的檔案位置。
 ## 使用方法
